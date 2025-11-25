@@ -1,1 +1,3 @@
-console.log('---MALAK modifier---');
+document.getElementById("btn").addEventListener("click", function() {
+    alert("Bouton cliqué !");
+});
