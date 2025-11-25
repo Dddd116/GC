@@ -2,4 +2,3 @@
 window.onload = function() {
     console.log("Bienvenue sur mon portfolio !");
 }
-
